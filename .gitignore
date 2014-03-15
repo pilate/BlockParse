@@ -1,0 +1,9 @@
+## Windows
+Thumbs.db
+Desktop.ini
+
+## Python
+*.py[co]
+
+## Blocks
+*.dat
